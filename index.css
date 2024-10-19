@@ -1,0 +1,37 @@
+body{
+    background-color: #e1e1e1;
+}
+section{
+    background-color: white;
+    width: 30%;
+    margin: 0 auto;
+    height: 65vh;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+}
+label{
+    font-size: 18px;
+    margin-left: 8%;
+}
+input{
+    width: 80%;
+    padding: 10px 5px;
+    border-radius: 5px;
+    margin:10px auto;
+    outline: none;
+    border: 1px solid #ccc;
+}
+button{
+    margin: 10px auto;
+    padding: 10px;
+    width: 83%;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(9, 51, 136);
+    border: 1px solid rgb(9, 51, 136);
+    border-radius: 5px;
+}
